@@ -1,17 +1,6 @@
-# NewsApp-React-Native-Mobile-App
-
-![Image](https://cdn.dribbble.com/userupload/11230077/file/original-5bd1c582562508ab6d9e5fb52be12d6b.png?resize=1504x846)
-
-  
-  <p align="left">
-    <a href="https://www.youtube.com/channel/UCuJNJfjUo2i4c6n09hZTlBQ?sub_confirmation=1"><img alt="Youtube" title="Youtube"  src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-    <p>
-      Watch the Tutorial on YouTube <a href="[https://www.youtube.com/playlist?list=PLvIpPQPabN8JtF9MLcI2UCcmXMENRgx-U](https://youtu.be/hnoullGuo74)" target="_blank">News App in React Native</a>
-    </p>
-    
-  </p>
-  
-
+# News Trove App
+![news-trove-main](https://github.com/Imam-Abubakar/news-trove-app/assets/54324954/be9c9e0f-2ae6-428b-a4bf-5a5daa554ba5)
+![news-trove-saved](https://github.com/Imam-Abubakar/news-trove-app/assets/54324954/5c3f31c7-9e99-4cc1-b511-3e5e333ae18f)
 ## Get Started
 
 install dev dependencies
